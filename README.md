@@ -1,5 +1,7 @@
 # HeatTile-Stream
-Using the HeatTile approach for a progressive data streaming and visualization technique
+Using the HeatTile approach for a progressive data streaming and visualization technique.
+
+![Image of the Interface on a mobile system](https://raw.githubusercontent.com/sebastian-meier/HeatTile-Stream/master/ScreenGrab.png)
 
 ## Usage
 
